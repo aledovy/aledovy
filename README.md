@@ -1,10 +1,10 @@
-[33m# Aledovy 🚀🔒[0m
+# Aledovy 🚀🔒
 
-[33m## About Me 👨‍💻[0m
+## About Me 👨‍💻
 
 Hi, I'm **Dovydas**, a bonafide security analyst specializing in detecting Indicators of Compromise (IOCs) in phishing, scam, and malware websites. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡
 
-[33m## Project Overview 📝[0m
+## Project Overview 📝
 
 **Aledovy** is a collection of tools and scripts designed to automate the detection and analysis of malicious websites. The goal is to streamline the process of identifying IOCs and provide actionable intelligence for security teams. ⚡
 
