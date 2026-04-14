@@ -2,11 +2,13 @@
 
 ## About Me 👨‍💻
 
-Hi, I'm **Dovydas**, a bonafide security analyst specializing in detecting Indicators of Compromise (IOCs) in phishing, scam, and malware websites. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡
+Hi, I'm **Dovydas**, a bonafide , but sitll learning security analyst specializing in detecting Indicators of Compromise (IOCs) in phishing, scam websites and malware files. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡 Most of my projects are written in Python, but I'm learning C and C++ so you might stumble upon them as well.
 
 ## Project Overview 📝
 
-**Aledovy** is a collection of tools and scripts designed to automate the detection and analysis of malicious websites. The goal is to streamline the process of identifying IOCs and provide actionable intelligence for security teams. ⚡
+This collection of tools and scripts designed to automate the detection and analysis of malicious websites. The goal is to streamline the process of identifying IOCs and provide actionable intelligence for security teams. ⚡
+
+Some stuff is also my passion projects or passtimes such as CTF rooms from THM, or PCAP analysis for threats.
 
 ## Features ✨
 - 🔍 Automated IOC detection
