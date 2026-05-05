@@ -1,8 +1,8 @@
-# Aledovy 🚀🔒
+# Dovy - aka Hashbrown 🚀🔒
 
 ## About Me 👨‍💻
 
-Hi, I'm **Dovydas**, a bonafide , but sitll learning security analyst specializing in detecting Indicators of Compromise (IOCs) in phishing, scam websites and malware files. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡 Most of my projects are written in Python, but I'm learning C and C++ so you might stumble upon them as well.
+Hi, I'm **hashbrown**, a bonafide , but sitll learning security analyst specializing in detecting Indicators of Compromise (IOCs) in phishing, scam websites and malware files. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡 Most of my projects are written in Python, but I'm learning C and C++ so you might stumble upon them as well.
 
 ## Project Overview 📝
 
