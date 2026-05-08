@@ -1,8 +1,8 @@
-# Dovy - aka Hashbrown 🚀🔒
+# Dovy - aka Hashbrown Knight 🚀🔒
 
 ## About Me 👨‍💻
 
-Hi, I'm **hashbrown lord**, a bonafide , but still learning security analyst / researcher specializing in detecting Indicators of Compromise (IOCs) in phishing, scam websites and malware files, WIN and LINUX Machines. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡 Most of my projects are written in Python, but I'm learning C and C++ so you might stumble upon them as well.
+Hi, I'm **hashbrown knight**, a bonafide , but still learning security analyst / researcher specializing in detecting Indicators of Compromise (IOCs) in phishing, scam websites and malware files, WIN and LINUX Machines. My passion is automating threat detection and helping organizations stay ahead of cyber threats. 🕵️‍♂️💡 Most of my projects are written in Python, but I'm learning C and C++ so you might stumble upon them as well.
 
 ## Project Overview 📝
 
